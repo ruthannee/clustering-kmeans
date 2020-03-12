@@ -130,26 +130,26 @@ Fase de análise e interpretação dos dados. Essa etapa estabelece o conhecimen
 __- _Clusters_ por instâncias:__
 
 <p align="center">
-<img src="images/TCC14.png" width=300px />
+<img src="images/TCC14.png" width=350px />
 </p>
 
 __– Média dos centroides por cluster:__
 
 <p align="center">
-<img src="images/tabela-centroides.PNG" width=500px />
+<img src="images/tabela-centroides.PNG" width=600px />
 </p>
 
 __- Dicionário de dados:__
 Dicionário que identifica os perfis a partir da média dos centroides.
 
 <p align="center">
-<img src="images/dicionario-dados.png" width=300px />
+<img src="images/dicionario-dados.png" width=450px />
 </p>
 
 __– Perfis estabelecidos:__
 
 <p align="center">
-<img src="images/perfis_estabelecidos.png" width=500px />
+<img src="images/perfis_estabelecidos.png" width=600px />
 </p>
 
 # Conclusão
